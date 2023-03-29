@@ -1,6 +1,7 @@
 .background {
  height: 100%;
- background-position: center;
+ background-position: relative;
  background-repeat: no-repeat;
  background-size: cover;
 }
+
