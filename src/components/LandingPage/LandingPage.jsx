@@ -15,7 +15,7 @@ function LandingPage() {
 
   return (
     <div className="container">
-     <img src='images/background.png'></img>
+      <img src='images/background.png' className='background'></img>
 
       <div className="grid">
         <div className="grid-col grid-col_8">

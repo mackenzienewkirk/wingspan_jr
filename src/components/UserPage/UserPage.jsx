@@ -9,7 +9,6 @@ function UserPage() {
     <div className="container">
       <img src='images/background.png' className='background'></img>
       <h2>Welcome, {user.username}!</h2>
-      <p>Your ID is: {user.id}</p>
       <LogOutButton className="btn" />
     </div>
   );
